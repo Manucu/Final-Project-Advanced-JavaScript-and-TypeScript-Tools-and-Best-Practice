@@ -177,7 +177,7 @@ export function createApp() {
       const query = (document.getElementById("search") as HTMLInputElement)
         .value;
       currentPage++;
-      searchVideos(query, true, currentPage);
+      searchVideos(query, true);
     });
   }
 }
