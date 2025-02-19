@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --=/Final-Project-Advanced-JavaScript-and-TypeScript-Tools-and-Best-Practice/",
+    "build": "vite build --base=/Final Project Advanced JavaScript and TypeScript Tools and Best Practice/",
     "preview": "vite preview"
   },
   "keywords": [
